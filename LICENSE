@@ -1,0 +1,41 @@
+MIT License
+
+Copyright (c) 2026 Luan Richard - L-R Productions
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Bibliotecas e projetos de terceiros
+
+Este programa usa, em tempo de build/execução:
+
+- **Python** (https://www.python.org/) - Python Software Foundation License.
+- **wxPython / wxWidgets** (https://wxpython.org/) - wxWindows Library Licence.
+- **Nuitka** (https://nuitka.net/) - Apache License 2.0. Usado para compilar o programa.
+- **Tolk** (https://github.com/dkager/tolk) - GNU Lesser General Public License v3.0.
+  Rota de fala para leitores de tela quando o NVDA não está rodando.
+- **NVDA Controller Client** - distribuído pela NV Access no SDK do NVDA, usado para enviar fala ao NVDA.
+
+Parte do mapa de parâmetros SysEx do VoiceLive 3 Extreme veio de um projeto da
+comunidade (vl3x.info), usado com autorização do autor, e foi conferida e corrigida
+no pedal real e no firmware.
+
+TC-Helicon e VoiceLive são marcas de seus respectivos donos; este programa não é
+afiliado à TC-Helicon nem à Music Tribe.
